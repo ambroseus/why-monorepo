@@ -57,9 +57,3 @@ Most people now consider it absurd to use a version control system like CVS, RCS
 - Codebase complexity, including unnecessary dependencies and difficulties with code discovery; and
 - Effort invested in code health.
 
-## Lerna based monorepos
-- babel : compiler for writing next generation JavaScript
-- create-react-app : create React apps with no build configuration
-- react-router : Declarative routing for React
-- jest : Delightful JavaScript Testing
-- storybook : Interactive UI component dev & test
