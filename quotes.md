@@ -1,3 +1,5 @@
+> A monorepo helps reduce the cost of software development. It does this in three different ways: by being simpler to use, by providing better discoverability, and by allowing atomicity of updates.
+
 Поведение полирепозитория по умолчанию – изоляция.
 
 Поведение монорепозитория по умолчанию – совместная ответственность и видимость.
