@@ -8,11 +8,14 @@
 - преимущества монорепозиториев
 - недостатки монорепозиториев
 - преимущества монорепозиториев при разработке проектов на JavaScript & TypeScript
-- инструменты для работы в монорепозитории (lerna, npm, yarn workspaces, husky, lint-staged)
+- инструменты для работы в монорепозитории (lerna+npm, yarn workspaces)
 - примеры проектов на github
-  - https://github.com/facebook/react
-  - https://github.com/mui-org/material-ui
-  - https://github.com/DCKit/dckit
+
+## monorepos on github
+
+- https://github.com/facebook/react
+- https://github.com/mui-org/material-ui
+- https://github.com/DCKit/dckit
 
 ## links
 
