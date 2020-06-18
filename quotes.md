@@ -2,6 +2,10 @@
 
 Поведение монорепозитория по умолчанию – совместная ответственность и видимость.
 
+Keep in mind monolithic source control does not necessarily result in monolithic software. And microservices can play well with monorepo
+
+There are two basic types of Monorepos are huge repositories containing all the code maintained by a company or project specific Monorepos like Babel, React
+
 ## What is an monorepo?
 The repository contains more than one logical project (e.g. an iOS client and a web-application). These projects are most likely unrelated, loosely connected or can be connected by other means (e.g via dependency management tools)
 The repository is large in many ways: Number of commits, Number of branches and/or tags, Number of files tracked, Size of content tracked (as measured by looking at the .git directory of the repository)
