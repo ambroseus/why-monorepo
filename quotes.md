@@ -1,4 +1,4 @@
-> A monorepo helps reduce the cost of software development. It does this in three different ways: by being simpler to use, by providing better discoverability, and by allowing atomicity of updates.
+> A monorepo helps reduce the cost of software development. It does this in three different ways: by being simpler to use, by providing better discoverability, and by allowing atomicity of updates. https://blog.rocketpoweredjetpants.com/2018/01/why-use-monorepo.html
 
 Поведение полирепозитория по умолчанию – изоляция.
 
