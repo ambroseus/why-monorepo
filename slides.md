@@ -1,4 +1,5 @@
 1. meme "git is everywhere"
+https://github.com/ambroseus/why-monorepo/blob/master/images/git-everywhere.png
 2. what is version control system
 3. what is repo
 4. whait is monorepo
@@ -11,6 +12,7 @@
    - list
 ---
 9. meme "JS is everywhere"
+https://github.com/ambroseus/why-monorepo/blob/master/images/js-everywhere.png
 10. advantages for JS projects
     - list
 11. examples of JS monorepos
