@@ -5,22 +5,23 @@
 5. companies which use monorepos
 6. advantages
    - list
-7. disadvantages
+7.  disadvantages
    - list
----
 8. advantages for Developer Experience & software dev costs 
-   - list
-9. advantages for JS projects
-   - list
-10. examples of JS monorepos
     - list
-11. what is isomorphic JS - examples
+---
+9. meme "JS is everywhere"
+10. advantages for JS projects
+   - list
+11. examples of JS monorepos
+    - list
+12. what is isomorphic JS - examples
     - SSR, axios, validation
-12. tools
+13. tools
     - list
-13. what is lerna
-14. how to use lerna with npm & yarn workspaces
+14. what is lerna
+15. how to use lerna with npm & yarn workspaces
     - list of main commands
-15. dckit demo
-16. links
+16. dckit demo
+17. links
     - list
