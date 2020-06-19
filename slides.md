@@ -22,6 +22,7 @@
 14. what is lerna
 15. how to use lerna with npm & yarn workspaces
     - list of main commands
-16. dckit demo
-17. links
+16. what about TS ?
+17. dckit demo
+18. links
     - list
