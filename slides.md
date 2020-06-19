@@ -13,9 +13,9 @@
 9. advantages for JS projects
    - list
 10. examples of JS monorepos
-   - list
+    - list
 11. what is isomorphic JS - examples
-   - SSR, axios, validation
+    - SSR, axios, validation
 12. tools
     - list
 13. what is lerna
