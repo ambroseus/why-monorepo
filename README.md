@@ -1,5 +1,9 @@
 # why-monorepo
 
+## presentation
+
+https://docs.google.com/presentation/d/19gXiPT6yONK7c8TQzqcSQta7fuFv79V2V0Ps_TC2NM0/edit?usp=sharing
+
 ## brief
 
 - зачем нужны репозитории и системы контроля версий (git.. git is everywhere)
