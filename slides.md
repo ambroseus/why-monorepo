@@ -1,5 +1,14 @@
 https://docs.google.com/presentation/d/19gXiPT6yONK7c8TQzqcSQta7fuFv79V2V0Ps_TC2NM0/edit?usp=sharing
 
+- репетировать голосом
+- в начале содерхание и анонс доклада
+- что выбрать, что лучше, какие варианты
+- к чему здесь изоморфный джс, 
+- слайд вопросов и линков
+- недостатки - сложные тулзы
+- аналоги
+
+
 1. meme "git is everywhere"
 https://github.com/ambroseus/why-monorepo/blob/master/images/git-everywhere.png
 2. what is version control system
