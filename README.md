@@ -32,3 +32,4 @@ https://docs.google.com/presentation/d/19gXiPT6yONK7c8TQzqcSQta7fuFv79V2V0Ps_TC2
 - [Монорепозитории: пожалуйста не надо](https://habr.com/ru/post/435306)
 - [Разработка в монорепозитории. Доклад Яндекса](https://habr.com/ru/company/yandex/blog/469021)
 - [Создаем монорепозиторий с помощью lerna & yarn workspaces](https://habr.com/ru/post/448766)
+- [How to Setup Monorepos with Git for JavaScript and TypeScript](https://hieunc.medium.com/how-to-setup-monorepos-with-git-for-javascript-and-typescript-d42f1294c0d2)
